@@ -19,9 +19,12 @@ Project Links
 - GitHub Repository: https://github.com/panwaryuvrajsingh555-svg/EV-by-Manfacture
 
 - Tableau Dashboard: https://public.tableau.com/views/AmritaDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Technologies Used
+video : https://drive.google.com/file/d/1mqz6CL5iH0Az0QjIRbACq7JlgoOkpW0S/view?usp=drive_link
 
-HTML | CSS | JavaScript | Bootstrap | Tableau
+Technologies Used
+  
+
+HTML | CSS | JavaScript |  Tableau
 
 Objective
 
